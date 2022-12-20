@@ -1,11 +1,11 @@
 # Node.js: criptografia e tokens JWT
 
-<img src="/logos/JavaScript.png" alt="Logo JavaScript" width="60" height="60"></img> <img src="/logos/VS Code.png"></img>
+<img src="/logos/JavaScript.png" alt="Logo JavaScript" width="60" height="60"></img> <img src="/logos/VS Code.png" width="60" height="60"></img>
 
 *****
 
 ## Links úteis:
-+ [tabela ASCII](https://www.ime.usp.br/~pf/algoritmos/apend/ascii.html)
++ [Tabela ASCII](https://www.ime.usp.br/~pf/algoritmos/apend/ascii.html)
 + [JavaScript: Cifra de César](https://www.youtube.com/watch?v=utiLWBXmNQU&t=9s)
 
 ## Etapas do treinamento:
